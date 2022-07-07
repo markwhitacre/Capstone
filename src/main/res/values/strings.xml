@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ABC Van Stock</string>
+    <string name="van_stock">Van Stock</string>
+    <string name="password">Password</string>
+    <string name="Email">Example@abc.com</string>
+    <string name="log_in">Log In</string>
+    <string name="Logo">TODO</string>
+    <string name="addpartbutton">addPartButton</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="addButton">Add</string>
+    <string name="part_number">Part Number</string>
+    <string name="part_description">Part Description</string>
+    <string name="text_view_value">Text View Value</string>
+    <string name="edit_text_value">Edit Text Value</string>
+    <string name="save">Save</string>
+    <string name="primary">Primary</string>
+    <string name="secondary">Secondary</string>
+    <string name="view_vehicle_inventory">View Vehicle Inventory</string>
+    <string name="view_products">View Products</string>
+    <string name="view_parts">View Parts</string>
+    <string name="create_new_part">Create New Part</string>
+    <string name="external_part">External Part</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="products">Products</string>
+    <string name="parts">Parts</string>
+    <string name="vehicle_inventory">Vehicle Inventory</string>
+    <string name="view_current_stock">View Current Stock</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="_30_day_change_report">30 Day Change Report</string>
+</resources>
